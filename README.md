@@ -1,3 +1,5 @@
+https://bit.ly/py-20jan 
+
 # Introductory Programming Using Python (Jan 2021)
 
 ## Additional Libraries required:
